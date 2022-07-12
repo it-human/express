@@ -1,0 +1,23 @@
+{
+  "name": "testexpress",
+  "version": "1.0.0",
+  "description": "only for testing porpouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it-human/express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it-human/express/issues"
+  },
+  "homepage": "https://github.com/it-human/express#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
